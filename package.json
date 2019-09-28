@@ -1,0 +1,44 @@
+{
+    "name": "yet-another-vscode-extension-pack",
+    "displayName": "Yet Another VSCode Extension Pack",
+    "description": "Yet Another VSCode Extension Pack",
+    "version": "0.0.1",
+    "publisher": "cirocfc",
+    "repository": {
+        "url": "https://github.com/cirocfc/yet-another-vscode-extension-pack",
+        "type": "git"
+    },
+    "author": {
+        "email": "ciro.cfc@gmail.com",
+        "name": "Ciro Ferreira da Cruz",
+        "url": "https://github.com/cirocfc"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer",
+        "kisstkondoros.vscode-codemetrics",
+        "editorconfig.editorconf",
+        "dbaeumer.vscode-eslint",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "robertoachar.vscode-essentials-snippets",
+        "wix.vscode-import-cost",
+        "oderwat.indent-rainbow",
+        "xabikos.JavaScriptSnippets",
+        "orta.vscode-jest",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "octref.vetur",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
